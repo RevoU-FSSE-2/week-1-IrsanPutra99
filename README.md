@@ -4,6 +4,7 @@ sudah terdiri dari
 
 Head
   - title
+
 Body
   - Nav
   - Header
